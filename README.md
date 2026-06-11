@@ -1,2 +1,6 @@
-These are some of the basic concepts I've applied as a high schooler in these cool everyday good ol' basic py projects. Despite not being anything fancy,
-they have helped me progress and increase my interests in coding...
+# Python Fundamentals
+
+A collection of Python projects and exercises I built while learning programming in high school.
+
+Although these projects are not highly complex, they helped me build a strong foundation in Python, improve my problem-solving abilities, and develop a deeper interest in software development. This repository showcases some of the concepts and techniques I learned during my early coding journey.
+
